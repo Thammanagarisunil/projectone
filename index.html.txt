@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewpor" content="width=device-width, initial-scale=1.0">
-        <title>My HTML Sunil </title>
+        <title>My HTML Sunil kumar </title>
     </head>
     <body>
         <p>This is a paragraph in my HTML page.</p>
